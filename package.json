@@ -393,5 +393,6 @@
     "type": "opencollective",
     "url": "https://opencollective.com/wikijs",
     "logo": "https://opencollective.com/opencollective/logo.txt"
-  }
+  },
+  "packageManager": "yarn@1.22.22"
 }
